@@ -1,3 +1,3 @@
 # cute_foxes
-My first testing with Requests library and APIs in python
-The script simply downloads a picture of a cute fox
+This project is purfect for stress removal and wasting of time. 
+The script simply downloads a user determined number of pictures of cute foxes and saves all pictures in a running directory.
